@@ -5,7 +5,6 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Luísa Ferreira Braz Machado
 * Mary Anne Pimenta Caldeira Silva
-* NRachel Begnini Pinheiro
 * Rafael Lucas Rosa de Oliveira
 * Wemerson Ferreira de Brito
 * Lucas Henrique Simplicio Monteiro
